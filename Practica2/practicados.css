@@ -13,5 +13,26 @@ h3.sub{
 }
 
 .dnd{
+    color:rgb(212, 121, 9)
+}
+
+.uno:hover{
+    cursor: pointer;
+    background-color:blue;
+
+}
+.dos:hover{
+    cursor: pointer;   
+    background-color:blue;
+
+}
+.tres:hover{
+    cursor: pointer;
+    background-color:blue;
+
+}
+.cuatro:hover{
+    cursor: pointer;
+    background-color:blue;
 
 }

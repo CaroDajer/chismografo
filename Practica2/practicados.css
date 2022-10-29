@@ -20,6 +20,7 @@ h3.sub{
     cursor: pointer;
     background-color:blue;
 
+
 }
 .dos:hover{
     cursor: pointer;   
@@ -38,5 +39,14 @@ h3.sub{
 }
 .komo{
     color:rgb(212, 121, 9)
+}
+
+.SendButton{
+    display: flex;
+    margin: center;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    background-color: antiquewhite;   
 }
 

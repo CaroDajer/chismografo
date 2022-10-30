@@ -18,3 +18,18 @@
     text-align: center;
     color: rgb(156, 70, 236);
 }
+.md{
+    text-align:left;
+}
+
+.texto
+{
+    text-align:justify;
+
+}
+
+.kw{
+    text-align:right;
+    text-align: justify;
+
+}

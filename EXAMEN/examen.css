@@ -1,7 +1,18 @@
-.hi{
+.inio{
+    background-color: black;
+}
+
+h3.ic{
+    color:white;
+    
+}
+
+.hi:hover{
     text-align: center;
     text-decoration: underline;
     color: rgb(156, 70, 236);
+    cursor: pointer;
+    background-color: white;
 }
 
 .tea{
@@ -12,11 +23,14 @@
 .stare{
     text-align:center;
     color: rgb(156, 70, 236);
+    text-transform: capitalize;
+    text-decoration: line-through;
 }
 
 .always{
     text-align: center;
     color: rgb(156, 70, 236);
+    text-decoration: overline;
 }
 .md{
     text-align:left;
@@ -25,11 +39,37 @@
 .texto
 {
     text-align:justify;
+    color:aliceblue;
 
 }
 
 .kw{
-    text-align:right;
-    text-align: justify;
+    text-align: right;
+    
+}
 
+.tc{
+    text-align: right;
+}
+
+table, th, td{
+    border-style: solid;
+    border-color:darkgreen;
+    border-width: medium;  
+    color:white; 
+}
+
+.qnsms{
+    text-align: center;
+    align-items: center;
+}
+
+.sueño{
+    background-color:midnightblue;
+    color:white;
+}
+
+.jaja{
+    background-color:maroon;    
+    color:lightskyblue;
 }
